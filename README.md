@@ -23,9 +23,6 @@ Using a rule-based system to apply human-made rules to store, sort and manipulat
 ## Work Flow
 ![Flowchart](https://user-images.githubusercontent.com/74519762/210126466-84e1929d-46da-4973-9196-b615b351c281.PNG)
 
-## System Design
-![image](https://user-images.githubusercontent.com/74519762/218239798-926384a6-6459-4630-b124-48ceb9a7a795.png)
-
 ## Puppeteer
 Puppeteer, a node library that provides a high-level API to control headless Chrome or Chromium over the DevTools Protocol to automatically collect data via Vedeeroot TLS from each fuel tank and store data in MongoDB.
 
